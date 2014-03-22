@@ -1,7 +1,7 @@
 Plugin-Grab
 =============
 
-This plugin makes it easier for you to quickly grab different sections from a string variable (usually the {content}). Right now it only lets you grab the first paragraph. Later versions will let you choose which block of content you want.
+This Statamic plugin makes it easier for you to quickly grab different sections from a string variable (usually the {content}). Right now it only lets you grab the first paragraph. Later versions will let you choose which block of content you want.
 
 ## Installing
 1. Download the zip file (or clone via git) and unzip it or clone the repo into `/_add-ons/`.
