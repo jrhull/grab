@@ -10,8 +10,8 @@ This Statamic plugin makes it easier for you to quickly grab different sections 
 
 ## Usage
 
-Add Disqus comments to your page by dropping in the tag and setting the `account` parameter
-    
+Grab the first paragraph of the 'content' variable
+
     {{ grab:firstPara string='{content}' tags='yes' }}
 
 ## Parameters
